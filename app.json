@@ -1,12 +1,13 @@
 {
    "name": "Heroku Container",
    "description": "This app does one little thing, and does it well.",
+   "logo": "https://cdn.onlinewebfonts.com/svg/img_8521.png",
    "keywords": [
-    "container"
+      "heroku",
+      "container"
    ],
+   "repository": "https://github.com/ArchStar029/ancient-glass",
    "website": "https://github.com/AngelaZiegler029/Heroku",
-   "repository": "https://github.com/AngelaZiegler029/Heroku",
-   "logo": "https://small-sharp-tool.com/logo.svg",
    "success_url": "https://github.com/AngelaZiegler029/Heroku",
    "stack": "container",
 }
