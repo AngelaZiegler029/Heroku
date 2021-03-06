@@ -6,8 +6,8 @@
       "heroku",
       "container"
    ],
-   "repository": "https://github.com/ArchStar029/ancient-glass",
-   "website": "https://github.com/AngelaZiegler029/Heroku",
-   "success_url": "https://github.com/AngelaZiegler029/Heroku",
-   "stack": "container",
+   "repository": "https://github.com/AngelaZiegler029/Heroku",
+   "website": "https://t.me/AncientCatz",
+   "success_url": "https://t.me/AncientCatz",
+   "stack": "container"
 }
