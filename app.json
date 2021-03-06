@@ -1,0 +1,4 @@
+{
+   "name": "Heroku Container bot",
+   "stack": "container",
+}
