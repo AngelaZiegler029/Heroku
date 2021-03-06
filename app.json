@@ -1,5 +1,12 @@
 {
-   "name": "Heroku Container bot",
+   "name": "Heroku Container",
+   "description": "This app does one little thing, and does it well.",
+   "keywords": [
+    "container"
+   ],
+   "website": "https://github.com/AngelaZiegler029/Heroku",
    "repository": "https://github.com/AngelaZiegler029/Heroku",
+   "logo": "https://small-sharp-tool.com/logo.svg",
+   "success_url": "https://github.com/AngelaZiegler029/Heroku",
    "stack": "container",
 }
